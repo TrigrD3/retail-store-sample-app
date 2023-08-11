@@ -19,7 +19,7 @@ terraform plan
 terraform apply
 ```
 
-After the instace has been created and running, access the sample app using on a new browser tab
+After the instace has been created and running, access the sample app on a new browser tab
 
 ```shell
 http://<Public IP Address>:8888
